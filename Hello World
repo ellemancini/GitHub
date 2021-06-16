@@ -1,0 +1,13 @@
+//Hello World 
+using System;
+
+namespace Mancini_GitHUb
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+        }
+}
